@@ -1,0 +1,235 @@
+.registration-section {
+	background: #f0f0f0;
+	padding: 4rem 0;
+
+	.registration-wrapper {
+		background: #fff;
+		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+		border-bottom: 16px solid $purple;
+		padding: 2rem !important;
+		@media (min-width: 480px) {
+			padding: 3rem 4rem !important;
+		}
+		@media (min-width: 768px) {
+			padding: 4rem 6rem !important;
+		}
+		@media (min-width: 992px) {
+			padding: 6rem 8rem !important;
+		}
+
+		form {
+			&.custom-registration-form {
+				h2 {
+					display: inline-block;
+					border-bottom: 4px solid $blue;
+					color: $purple;
+					font-size: 1.25rem;
+					font-weight: 700;
+					line-height: 1;
+					padding: 0 0 0.5rem;
+					margin: 1rem 0;
+					@media (min-width: 480px) {
+						font-size: 1.5rem;
+					}
+					@media (min-width: 576px) {
+						font-size: 1.75rem;
+					}
+					@media (min-width: 992px) {
+						font-size: 1.875rem;
+					}
+				}
+
+				.custom-registration-form__heading {
+					background: $blue;
+					text-align: center;
+					padding: 1rem;
+					margin: 0 0 1.5rem;
+
+					h4 {
+						font: 700;
+						line-height: 1;
+						letter-spacing: 0.025em;
+						color: #fff;
+						font-size: 1.125rem;
+						margin: 0;
+						@media (min-width: 480px) {
+							font-size: 1.25rem;
+						}
+						@media (min-width: 1280px) {
+							font-size: 1.5rem;
+						}
+					}
+				}
+
+				.custom-registration-form__subheading {
+					h5 {
+						position: relative;
+						display: inline-block;
+						color: $purple;
+						text-transform: uppercase;
+						line-height: 1;
+						font-size: 0.875rem;
+						padding: 0 0 0.25rem;
+
+						&:after {
+							content: '';
+							position: absolute;
+							bottom: 0;
+							left: 0;
+							width: 100%;
+							border-bottom: 2px solid $blue;
+						}
+					}
+
+					p {
+						color: $grey-font;
+						font-size: 0.875rem;
+					}
+
+					a {
+						color: $blue;
+					}
+				}
+
+				.registration-form-section {
+					@media (min-width: 768px) {
+						display: flex;
+					}
+
+					& > div {
+						flex: 1 1 50%;
+						&:first-child {
+							@media (min-width: 768px) {
+								margin: 0 4rem 0 0;
+							}
+						}
+
+						& > div {
+							display: flex;
+							flex-direction: column;
+							margin: 0 0 1rem;
+
+							label {
+								font-weight: 600;
+								color: $grey-font;
+								margin: 0 0 0.5rem;
+
+								& + .label-info {
+									margin: 0 0 0.5rem;
+								}
+
+								+ div {
+									position: relative;
+
+									& > div {
+										position: absolute;
+										top: 0;
+										right: 0;
+										bottom: 0;
+										pointer-events: none;
+										display: flex;
+										align-items: center;
+										padding: 0 0.5rem;
+										color: #374151;
+
+										svg {
+											fill: currentColor;
+											height: 1rem;
+											width: 1rem;
+										}
+									}
+								}
+							}
+
+							input,
+							select {
+								border: 1px solid $grey-300;
+								padding: 0.5rem;
+
+								&.is-invalid {
+									border: 1px solid #f10505;
+								}
+							}
+
+							small {
+								&.is-invalid {
+									color: #f10505;
+								}
+							}
+
+							select {
+								appearance: none;
+								width: 100%;
+							}
+						}
+					}
+				}
+
+				.registration-form-bottom {
+					margin: 4rem 0 0;
+
+					h3 {
+						color: $purple;
+						font-size: 1.25rem;
+						font-weight: 600;
+						line-height: 1.25;
+						margin: 0 0 0.5rem;
+					}
+
+					p {
+						color: $grey-font;
+
+						a {
+							font-weight: 600;
+							text-decoration: underline;
+						}
+					}
+
+					small {
+						&.is-invalid {
+							color: #f10505;
+						}
+					}
+
+					&__declaration {
+						display: flex;
+
+						input {
+							margin: 0 0.5rem 0 0;
+						}
+
+						label {
+							line-height: 1.1;
+						}
+					}
+				}
+
+				.registration-form-submit {
+					margin: 4rem 0 0;
+
+					button[type='submit'] {
+						text-transform: uppercase;
+						font-weight: 700;
+						line-height: 1;
+						background: $orange;
+						color: #fff;
+						font-size: 1.5rem;
+						padding: 1rem 4rem;
+						cursor: pointer;
+						transition: all 200ms ease-in-out;
+						border: none;
+
+						&:hover {
+							background: darken($orange, 10%);
+						}
+					}
+
+					p {
+						color: $grey-font;
+						margin: 1rem 0 0;
+					}
+				}
+			}
+		}
+	}
+}

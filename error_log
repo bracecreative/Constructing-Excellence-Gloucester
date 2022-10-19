@@ -1,0 +1,139 @@
+[05-Oct-2018 12:02:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[05-Oct-2018 12:02:22 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[05-Oct-2018 12:02:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[05-Oct-2018 12:02:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[31-Jan-2019 20:24:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[17-Feb-2019 03:02:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:36 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:36 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:23:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:24:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:24:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:24:16 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:24:16 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:24:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[18-Sep-2019 10:24:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[25-Oct-2019 00:22:38 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[22-May-2020 14:55:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[22-May-2020 14:55:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[22-May-2020 14:55:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[22-May-2020 14:55:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[26-Aug-2020 12:30:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:20:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:20:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:20:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:20:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:20:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[12-Oct-2020 08:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[31-Oct-2020 04:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[30-Dec-2020 22:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[31-Dec-2020 21:31:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
+[02-Jan-2021 23:26:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ceglosorg/public_html/wp-content/themes/ce-brace/index.php on line 1
