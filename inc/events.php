@@ -20,12 +20,14 @@ class BraceEvents {
     $members_only = $members_only === 'yes' ? 'yes' : 'no';
 
     ?>
-    <div class="input_block">
-      <label for="ticket_member" class="ticket_form_label ticket_form_left">Member Required:</label>
-      <input type="checkbox" id="ticket_member" name="ticket_member" class="ticket_field ticket_form_right" value="yes" <?php checked($members_only, 'yes'); ?>>
-      <p class="description ticket_form_right">If checked, users will only be able to tickets for members that are currently assigned to them.</p>
-    </div>
-    <?php
+<div class="input_block">
+    <label for="ticket_member" class="ticket_form_label ticket_form_left">Member Required:</label>
+    <input type="checkbox" id="ticket_member" name="ticket_member" class="ticket_field ticket_form_right" value="yes"
+        <?php checked($members_only, 'yes'); ?>>
+    <p class="description ticket_form_right">If checked, users will only be able to tickets for members that are
+        currently assigned to them.</p>
+</div>
+<?php
   }
 
   public function update_ticket_extra($post_id){
@@ -93,12 +95,12 @@ class BraceEvents {
           }
         } else if($membership->plan->slug == 'corporate' || $membership->plan->slug == 'corporate-19' || $membership->plan->slug == 'corporate-20-21' || $membership->plan->slug == 'corporate-22-23') {
           // check quantity
-          if($cart_item['quantity'] > 3) {
-            wc_add_notice(sprintf('You are on the Corporate Plan and are limited to 3 Member\'s ticket per event, quantity of %s has been changed to 3',
+          if($cart_item['quantity'] > 6) {
+            wc_add_notice(sprintf('You are on the Corporate Plan and are limited to 6 Member\'s ticket per event, quantity of %s has been changed to 6',
             $product->get_name()
             ), 'notice');
 
-            $cart->set_quantity($cart_item_key, 3);
+            $cart->set_quantity($cart_item_key, 6);
           }
         }
 
